@@ -1,0 +1,1 @@
+# Hal_Binasi_Manav_Otomasyonu
