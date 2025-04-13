@@ -1,9 +1,35 @@
 # Hal_Binasi_Manav_Otomasyonu
 
+Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrolü ve kullanıcı yönetimi gibi iş süreçlerini kolaylaştırmak için geliştirilmiş bir masaüstü otomasyon yazılımıdır.
 
+2023 yılında yapmış olduğum bir projedir.
 
+## 📸 Ekran Görüntüleri
 
----
+### 🔐 Giriş Ekranı
+![Login](Screenshots/login.png)
+
+### 🏠 Ana Ekran
+![Ana Ekran](Screenshots/anaEkran.png)
+
+### 🛒 Satış Paneli (1)
+![Satış 1](Screenshots/satis.png)
+
+### 🛍️ Satış Paneli (2)
+![Satış 2](Screenshots/satıs.png)
+
+### 🧾 Fatura Ekranı
+![Fatura](Screenshots/fatura.png)
+
+### 📑 Raporlar
+![Raporlar](Screenshots/rapor.png)
+
+### 📊 Ürün Grafik Görünümü
+![Grafik](Screenshots/grafik.png)
+
+### 💰 Kasa Analizi
+![Kasa Grafik](Screenshots/kasaGrafik.png)
+
 
 ## 🚀 Özellikler
 
@@ -36,6 +62,7 @@
 - SQL Server Express veya LocalDB
 - Crystal Reports (Eğer rapor modülü varsa)
 - LiveCharts NuGet üzerinden kurulmalı
+  
 
 ### 2. Veritabanı Kurulumu
 
