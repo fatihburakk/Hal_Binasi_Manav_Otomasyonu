@@ -30,6 +30,10 @@ Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrol
 ### 💰 Kasa Analizi
 ![Kasa Grafik](Screenshots/kasaGrafik.png)
 
+## 🧪 Kurulum
+
+- `Setup/setup.exe` dosyasını çalıştırarak uygulamayı doğrudan yükleyebilirsiniz.
+- Bu kurulum, LocalDB ile çalışır (aşağıdaki kurulumlara gerek yoktur,sadeve visual studio da yapamnız gerekn adımmlar sırası).
 
 ## 🚀 Özellikler
 
@@ -76,11 +80,6 @@ Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrol
 - `F5` tuşuna basarak çalıştırın.
 
 ---
-
-## 🧪 Alternatif: ClickOnce ile Kurulum
-
-- `Setup/setup.exe` dosyasını çalıştırarak uygulamayı doğrudan yükleyebilirsiniz.
-- Bu kurulum, LocalDB ile çalışır (önceki kuruluma gerek yoktur).
 
 
 
