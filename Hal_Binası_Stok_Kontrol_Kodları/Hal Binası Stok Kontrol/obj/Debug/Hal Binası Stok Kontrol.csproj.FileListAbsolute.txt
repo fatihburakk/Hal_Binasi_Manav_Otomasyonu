@@ -1,0 +1,30 @@
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\Hal Binası Stok Kontrol.exe.config
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\Hal Binası Stok Kontrol.exe
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\Hal Binası Stok Kontrol.pdb
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.csproj.AssemblyReference.cache
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Form1.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.GirisPanelii.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Properties.Resources.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.csproj.GenerateResource.cache
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.csproj.CoreCompileInputs.cache
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.exe
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.pdb
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Satıs.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.FaturaGstr.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Grafik.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.KasaGrafik.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.dll
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.WinForms.dll
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.Wpf.dll
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.pdb
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.xml
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.WinForms.pdb
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.WinForms.xml
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.Wpf.pdb
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\bin\Debug\LiveCharts.Wpf.xml
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal Binası Stok Kontrol.csproj.CopyComplete
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Form3.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Form4.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Kaydol.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Rapor.resources
+D:\visual Studiı C#\Hal Binası Stok Kontrol\Hal Binası Stok Kontrol\obj\Debug\Hal_Binası_Stok_Kontrol.Progress.resources
