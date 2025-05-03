@@ -7,7 +7,7 @@ Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrol
 ## 📸 Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Login](Screenshots/login.PNG)
+![Login](Hal_Binası_Stok_Kontrol_Kodları/Screenshots/login.PNG)
 
 ### 🏠 Ana Ekran
 ![Ana Ekran](Screenshots/anaEkran.PNG)
