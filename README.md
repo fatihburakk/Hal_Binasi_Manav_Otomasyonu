@@ -6,26 +6,10 @@ Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrol
 
 ## 📸 Ekran Görüntüleri
 
-### 🔐 Giriş Ekranı
-![Login](Hal_Binası_Stok_Kontrol_Kodları/Screenshots/login.PNG)
-
-### 🏠 Ana Ekran
-![Ana Ekran](Screenshots/anaEkran.PNG)
 
 ### 🛒 Satış Paneli (1)
-![Satış 1](Screenshots/satis.PNG)
+![Satış 1](Hal_Binası_Stok_Kontrol_Kodları/Screenshots/anaEkran.PNG)
 
-### 🧾 Fatura Ekranı
-![Fatura](Screenshots/fatura.PNG)
-
-### 📑 Raporlar
-![Raporlar](Screenshots/rapor.PNG)
-
-### 📊 Ürün Grafik Görünümü
-![Grafik](Screenshots/grafik.PNG)
-
-### 💰 Kasa Analizi
-![Kasa Grafik](Screenshots/kasaGrafik.PNG)
 
 ## 🧪 Kurulum
 
