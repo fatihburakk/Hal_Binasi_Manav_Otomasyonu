@@ -6,11 +6,10 @@ Bu proje, hal binası gibi pazarlarda ürünlerin kasa ile satış, stok kontrol
 
 ## 📸 Ekran Görüntüleri
 
-
 ### 🛒 Satış Paneli (1)
 ![Satış 1](Hal_Binası_Stok_Kontrol_Kodları/Screenshots/anaEkran.PNG)
 
-
+![Satış 1](Hal_Binası_Stok_Kontrol_Kodları/Screenshots/satis.PNG)
 ## 🧪 Kurulum
 
 - `Setup/setup.exe` dosyasını çalıştırarak uygulamayı doğrudan yükleyebilirsiniz.
